@@ -2,4 +2,4 @@ mob,type,hostile,health
 Zombie,Undead,Yes,20
 Creeper,Explosive,Yes,20
 Cow,Passive,No,10
-Enderman,Neutral,No,40
+Pig,Passive,No,10
